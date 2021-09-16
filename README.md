@@ -1,77 +1,100 @@
-## Your Name
+## Matthew Warnock
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I really like to delve into the details of why something works. My curious mind for technologies drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the detail so I can be better prepared to help others. My analytical thinking and the values that the world of development seems to share is the reason I am looking forward to working in this industry.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[WeatherAPI_app](https://github.com/Matt-Warnock/weatherAPI_app)**            | An app that give today's weather report. | JavaScript, Ruby, Sinatra, SQLite3, Rspec. |
+| **[Contact Book](https://github.com/Matt-Warnock/contact-book)** | A CLI app for storing peoples contacts. | Ruby, SQLite3, Rspec |
 
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Meticulous
 
--STAR
--What was the situation/task? (ST)
+- During my time at John Henry's it was very important that every single moving piece of hardware was tested thoroughly. Due to the (border-line obsessive) testing I would do and the training I implemented as a result, the company saved on transport costs and time.
 
--How was the skill used?
+#### analytical plainer
 
--What did you do? (action)
+- When project managing at Bang and Olufsen I discovered that problem solving time sensitive issues is just a matter of going though the right process a step at a time. I would then review to see if we need to add or improve a process. This resulted in less callouts to the customers.
 
--What was the result?
+## Work Experience
 
+**Wembley Music Centre** (Mar 18-Oct 20)
+_sales assistant_
 
-#### This Skill
+- responsibilities included staff training
 
-- Experience
-- Achievements
-- Evidence (STAR)
+**Bang & Olufsen** (April 15-Mar 18)
+_Sales executive_
 
-#### Another Skill
+- Gained project management skills coordinating custom A/V home installations.
+- Research skills for system design and technical support issues.
+- responsible for building client portfolios, carrying out sales and marketing campaigns, opening & closing store and on-site assessment for installations.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+**Maplin** (Sept 14-April 15)
+_Sales adviser_
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Awarded 'colleague of the period' for effective communication and improvement of add-on sales.
+- Explaining technologies to customers in an easy-to-understand way.
+
+**John Henry's Ltd,** (Mar 08-Mar 14)
+_drum technician_
+
+- Gained teamwork skills in project based environment.
+- Problem solving development with preparing orders to exact specification.
+- Developed and then trained staff on fault finding when preparing equipment.
+
+**Downs Sounds Studios** (Aug 07-Dec 07)
+_Studio coordinator_
+
+- Improved best practice proceeders for maintaining studios.
+
+**Enterprise Studios** (Sept 06-Jul 07)
+_studio coordinator_
+
+- Developed time management skills.
+
+**Chase E Foote’s** (Mar 03-Sept 06)
+_sales assistant_
+
+- Gained team organization skills supervising customer orders.
+
+**World of Music** (Mar 01-Oct 02)
+_sales assistant_
+
+- Built on communication skills in explaining and pitching musical products.
+
+**Sabersonic** (Sept 99-Jan 00)
+_Assistant engineer_
+
+- Developed problem solving skills in high-pressured recording environment.
+
+**Zen Studios** (Jun 98-Jul 99)
+_Assistant engineer_
+
+- Built organization skills in busy recording/rehearsal studio.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (Sept 21 - Dec 21)
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Alchemea College of Audio Engineering (2000 – 2001)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Advanced Audio Engineering & Production
+- Diploma
 
-#### Any other qualifications
+####  Colchester Institute (1996 - 1998)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BTEC in Contemporary Music
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Going to Metal concerts/festivals, Meeting new people at Meetup groups, Playing drums/guitar, American pool
