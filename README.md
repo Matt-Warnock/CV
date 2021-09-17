@@ -1,6 +1,6 @@
 ## Matthew Warnock
 
-I really like to delve into the details of why something works. My curious mind for technologies drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the detail so I can be better prepared to help others. My analytical thinking and the values that the world of development seems to share is the reason I am looking forward to working in this industry.
+I really like to delve into the details of why something works. My curiosity about technology drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the detail so I can be better prepared to help others. My analytical thinking and the values that tech communities seem to share is the reason I am looking forward to working in this industry.
 
 ## Projects
 
@@ -14,9 +14,9 @@ I really like to delve into the details of why something works. My curious mind 
 
 #### Meticulous
 
-- During my time at John Henry's it was very important that every single moving piece of hardware was tested thoroughly. Due to the (border-line obsessive) testing I would do and the training I implemented as a result, the company saved on transport costs and time.
+- During my time at John Henry's it was very important that every single moving piece of hardware was tested thoroughly. Due to the detailed testing I would do and the training I implemented as a result, the company saved on transport costs and time.
 
-#### analytical plainer
+#### Analytical planner
 
 - When project managing at Bang and Olufsen I discovered that problem solving time sensitive issues is just a matter of going though the right process a step at a time. I would then review to see if we need to add or improve a process. This resulted in less callouts to the customers.
 
@@ -50,7 +50,7 @@ _drum technician_
 **Downs Sounds Studios** (Aug 07-Dec 07)
 _Studio coordinator_
 
-- Improved best practice proceeders for maintaining studios.
+- Improved best practice procedures for maintaining studios.
 
 **Enterprise Studios** (Sept 06-Jul 07)
 _studio coordinator_
@@ -65,7 +65,7 @@ _sales assistant_
 **World of Music** (Mar 01-Oct 02)
 _sales assistant_
 
-- Built on communication skills in explaining and pitching musical products.
+- Built communication skills in explaining and pitching musical products.
 
 **Sabersonic** (Sept 99-Jan 00)
 _Assistant engineer_
