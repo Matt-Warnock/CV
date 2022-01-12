@@ -83,8 +83,14 @@ _Assistant engineer_
 - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, JavaScript
+- RSpec, Jest
+
+#### Self-study Computing Programming (Dec 19 - Aug 21)
+- Studied on-line courses at [codebar.io](http://tutorials.codebar.io/) and [codecadamy](https://www.codecademy.com/profiles/drflamerock)
+- HTML, CSS
+- JavaScript, Ruby
+- Project work assigned by mentor
 
 #### Alchemea College of Audio Engineering (2000 – 2001)
 
@@ -97,4 +103,4 @@ _Assistant engineer_
 
 ## Hobbies
 
-Going to Metal concerts/festivals, Meeting new people at Meetup groups, Playing drums/guitar, American pool
+I really enjoy comic book movies, meeting new people at Meetup groups and playing American pool. I also like to play drums in my spare time and occasionally play guitar as well.
