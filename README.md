@@ -1,6 +1,6 @@
 ## Matthew Warnock
 
-I really like to delve into the details of why something works. My curiosity about technology drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the detail so I can be better prepared to help others. My analytical thinking and the values that tech communities seem to share is the reason I am looking forward to working in this industry.
+I really like to delve into the details of why something works. My curiosity about technology led me to be the 'go to person' on all electronic percussion matters at John Henry's and Wembley Music Centre. This resulted in a much more efficient exchange of information and an increase in high-end e-kit sales. It also drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the detail so I can be better prepared to help others. My analytical thinking and the values that tech communities share is the reason I am looking forward to working in this industry.
 
 ## Projects
 
