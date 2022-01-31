@@ -21,6 +21,11 @@ I really like to delve into the details of why something works. My curiosity abo
 
 - When project managing at Bang and Olufsen I discovered that problem solving time sensitive issues is just a matter of going though the right process a step at a time. I would then review to see if we need to add or improve a process. This resulted in less callouts to the customers.
 
+#### Critical thinker
+
+- During my time at Wembley Music Centre we would often have pitches from manufacturing companies on new e-kits, boasting new 'revolutionary' technologies.
+I would spend time investing such claims carefully to ascertain the facts. This resulted in my boss avoiding taking on new products that had a weaker USP than existing stock.
+
 ## Tech Experience
 
 **Makers Academy (Sept 2021 - Dec 2021)**
