@@ -1,22 +1,24 @@
 ## Matthew Warnock
 
-I really like to delve into the details of why something works. My curiosity about technology led me to be the 'go to person' on all electronic percussion matters at John Henry's and Wembley Music Centre. This resulted in a much more efficient exchange of information and an increase in high-end e-kit sales. It also drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the detail so I can be better prepared to help others.
+I love building clean and solid code, I get a lot of satisfaction learning and applying new techniques to refactor for efficiency and readability. I found my joy in coding, working on projects with my mentor and getting regular PR reviews. Throughout my career I have always been active in learning various types of technologies. Which drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the details so I can be better prepared to help others.
 
 ## Pre-Makers Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Contact Book](https://github.com/Matt-Warnock/contact-book)** | A CLI app for storing peoples contacts. | Ruby, SQLite3, Rspec |
-| **[Metal To-Do List](https://github.com/Matt-Warnock/to_do_list)** | A page to Write a to-do list and cross off when done. | JavaScript, Jasmine, CSS |
 | **[WeatherAPI App](https://github.com/Matt-Warnock/weatherAPI_app)** | An app that give today's weather report. | JavaScript, Ruby, Sinatra, SQLite3, Rspec |
+| **[Contact Book](https://github.com/Matt-Warnock/contact-book)** | A CLI app for storing people's contacts. | Ruby, SQLite3, Rspec |
+| **[Metal To-Do List](https://github.com/Matt-Warnock/to_do_list)** | A page to write a to-do list and cross off when done. | JavaScript, Jasmine, CSS |
+
 
 ## Makers Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Airport Challenge](https://github.com/Matt-Warnock/airport_challenge)** | a weekend challenge airport controller back-end. | Ruby, Rspec |
-| **[Chitter Challenge](https://github.com/Matt-Warnock/chitter-challenge)** | A message board app based on Twitter. | Ruby, PostGreSQL, Sinatra, Rspec |
-| **[Bar.io Back-end](https://github.com/Matt-Warnock/barrio-backend) [Bar.io  Front-end](https://github.com/Matt-Warnock/barrio-frontend)** | Bar location app we did as a team project at Makers (I worked on the back-end). | React, Express, Node.js, Jest |
+| **[Bar.io Back-end](https://github.com/Matt-Warnock/barrio-backend) [Bar.io  Front-end](https://github.com/Matt-Warnock/barrio-frontend)** | Bar location app we did as a team project at Makers<br/>(I worked on the back-end). | React, Express, Node.js, Jest |
+| **[Chitter Challenge](https://github.com/Matt-Warnock/chitter-challenge)** | Message board app based on Twitter. | Ruby, PostGreSQL, Sinatra, Rspec |
+| **[Airport Challenge](https://github.com/Matt-Warnock/airport_challenge)** | Weekend challenge airport controller back-end. | Ruby, Rspec |
+
 
 
 ## Skills
