@@ -44,20 +44,18 @@ _16 week intensive boot camp where I was taught a range of technologies and codi
 - OOP, TDD, MVC, DDD
 - Pair programming
 - Agile/XP
-- Ruby, JavaScript, Command Line & Git
-- RSpec, Jest, Capybara
 
 **Self-study Computing Programming (Dec 2019 - Aug 2021)**
 _Studied on-line courses at [codebar.io](http://tutorials.codebar.io/) and [codecadamy](https://www.codecademy.com/profiles/drflamerock) with the guidance from my mentor:_
 
 - HTML, CSS
-- JavaScript, Ruby
-- Project work assigned by my mentor
+- JavaScript, Ruby, Command Line & Git
+- TDD, RSpec, Jasmine
 
 ## Work Experience
 
 **Wembley Music Centre (Mar 2018 - Oct 2020)**
-_Sales assistant in drum department_
+_Senior sales assistant in drum department_
 
 - Trained staff on till use & product knowledge which led to more efficient sales.
 - Specialised in electronic drum kits, tuning & custom drum configuration.
