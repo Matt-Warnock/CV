@@ -77,8 +77,8 @@ _Sales adviser at electronics store_
 **John Henry's Ltd (Mar 2008 - Mar 2014)**
 _Drum technician at music hire specialist_
 
-- Teamwork led to timely fulfilment of orders in fast paced based environment.
-- Created system of equipment testing which improved reliability of orders sent.
+- Teamwork led to timely fulfilment of orders in a fast paced based environment.
+- Created systems of equipment testing which improved reliability of orders sent.
 - Creative problem solving with preparing orders to exact specification.
 
 ## Musical Experience
@@ -106,7 +106,7 @@ _Assistant engineer_
 
 **Additional work in music field**
 
-- Teaching class on music equipment setup & safety at Alchemea Collage.
+- Teaching class on music equipment setup & safety at Alchemea College.
 - Freelance audio engineering & production for private clients.
 
 ## Further Education
