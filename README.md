@@ -1,6 +1,6 @@
 ## Matthew Warnock
 
-I love building clean and solid code, I get a lot of satisfaction learning and applying new techniques to refactor for efficiency and readability. I found my joy in coding, working on projects with my mentor and getting regular PR reviews. Throughout my career I have always been active in learning various types of technologies. Which drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the details so I can be better prepared to help others.
+I love building well tested, clean and solid code, I get a lot of satisfaction learning and applying new techniques to refactor for efficiency and readability. I found my joy in coding, working on projects with my mentor and getting regular PR reviews. Throughout my career I have always been active in learning various types of technologies. Which drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the details so I can be better prepared to help others.
 
 ## Pre-Makers Projects
 
